@@ -34,7 +34,6 @@ This project includes a comprehensive literature review focusing on turbine fail
 
 ## Visuals
 ![Final model](https://github.com/user-attachments/assets/91a3518e-7cef-4f4a-8e28-942b04750e8f)
-
 ![istockphoto-1191743280-170667a](https://github.com/user-attachments/assets/5561cfb8-9118-408d-945a-c9d8217d72bd)
 
 ![Section analysis](https://github.com/user-attachments/assets/94ceaf62-6d6c-4fe2-b5f9-9b54f009d22b)
