@@ -31,3 +31,6 @@ This project includes a comprehensive literature review focusing on turbine fail
 - **High Temperature Resistance:** Suitable for temperatures up to 250°C (482°F).
 - **Mechanical Strength:** Comparable to aluminum in demanding applications.
 - **Chemical Resistance:** Effective in harsh chemical environments.
+
+"C:\Users\SEC\OneDrive\Documents\SEC\2 Year\3D Printing\3d print\Final model.png"
+"C:\Users\SEC\OneDrive\Documents\SEC\2 Year\3D Printing\3d print\Final model.png"
